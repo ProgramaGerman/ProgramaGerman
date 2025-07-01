@@ -3,10 +3,8 @@
 
   # ProgramaGerman
 
-  <div>
-    [![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/ProgramaGerman)
-    [![GitHub Stars](https://img.shields.io/github/stars/ProgramaGerman?style=social)](https://github.com/ProgramaGerman)
-  </div>
+  <a href="https://github.com/ProgramaGerman" style="margin-right: 8px;"><img src="https://img.shields.io/github/followers/ProgramaGerman?label=Follow&style=social" alt="GitHub Followers"/></a>
+  <a href="https://github.com/ProgramaGerman"><img src="https://img.shields.io/github/stars/ProgramaGerman?style=social" alt="GitHub Stars"/></a>
 
   <br>
 

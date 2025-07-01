@@ -116,7 +116,7 @@
     <a href="mailto:gownman2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="32" alt="Gmail"/></a>
     <a href="https://instagram.com/xir.rence"><img src="https://skillicons.dev/icons?i=instagram" width="32" alt="Instagram"/></a>
     <a href="https://discord.com/users/729473858179956859"><img src="https://skillicons.dev/icons?i=discord" width="32" alt="Discord"/></a>
-    <a href="https://wa.me/584123573413"><img src="https://skillicons.dev/icons?i=whatsapp" width="32" alt="WhatsApp"/></a>
+    <a href="https://wa.me/584123573413"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="32" alt="WhatsApp"/></a>
   </div>
 
   <br>

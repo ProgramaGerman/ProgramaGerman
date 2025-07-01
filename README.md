@@ -3,18 +3,14 @@
 
 <div align="center">
 
-<a href="https://github.com/CtorW">
-<img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
-</a>
+
 
 [![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
 [![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/CtorW)
 </div>
 
 
-🌱 Currently immersed in the world of **Arch Linux**, fascinated by the sleekness of **Hyprland**, and always on the lookout for inspiring **Dotfiles** like **HyDE**, **HyprLuna**, and **End-4 dots**.
-
-💻 Passionately building an **Arch Installer** project. 
+Computer developer passionate about technology and problem solving. I focus on software development, technical support and artificial intelligence solutions. With skills in programming languages ​​such as Python, Java and Javascript, as well as in web development and databases. I am always willing to collaborate and learn from new projects and technologies. Venezuelan, 21, computer student
 
 
 <div align="Center">

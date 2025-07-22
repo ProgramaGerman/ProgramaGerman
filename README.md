@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Logo AI.gif" alt="Foto de perfil" width="180" style="border-radius: 50%; display: block; margin: 0 auto;" />
+  <img src="Logo AI.gif" alt="Foto de perfil" width="250" style="border-radius: 50%; display: block; margin: 0 auto;" />
 
   # ProgramaGerman
 
